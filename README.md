@@ -6,6 +6,7 @@ Bahamas Job / RageUI v2 / Optimisé 0.00ms / Full Configurable
 #### Preview : bientôt
 
 - Configuration facile
+- Mapping: https://urlz.fr/ijnm
 
 ### Screenshot :
 
