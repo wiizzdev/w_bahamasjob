@@ -1,5 +1,5 @@
 Config = {
-    Color = "~p~",
+    Color = "~b~",
     Cocktails = {
         List = {
             {label = "Punch Exotique", name = 'punchexotique'},
