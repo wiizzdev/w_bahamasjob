@@ -21,7 +21,7 @@ Config = {
     },
     Garage = {
         Vehicle = {
-            {label = "Minibus", name = 'journey'},
+            {label = "Camionette", name = 'burrito'},
         },
         Spawn = {p = vector3(-1391.37, -634.11, 28.7), h = 119.06},
         Pos = {
