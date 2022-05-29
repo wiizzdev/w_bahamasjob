@@ -3,7 +3,7 @@ Bahamas Job / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : bientôt
+#### Preview : https://youtu.be/2Ec4RQsiSMQ
 
 - Configuration facile
 - Mapping: https://urlz.fr/ijnm
